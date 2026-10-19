@@ -1,0 +1,16 @@
+# 系統與編輯器暫存
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+*.swp
+
+# 原始設計稿與大檔素材（嚴禁上傳）
+*.psd
+*.ai
+*.zip
+
+# 品牌與未公開圖示（改用 GitHub 外鏈託管，避免外洩原始素材）
+*logo*
+*Logo*
